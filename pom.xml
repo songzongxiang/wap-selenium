@@ -6,6 +6,7 @@
     <groupId>org.example</groupId>
     <artifactId>wap-selenium</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
 
     <!-- 属性配置 -->
     <properties>
