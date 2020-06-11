@@ -1,1 +1,0 @@
-{"uuid":"86ae068f-5e14-4dc3-86b5-06109a8f3293","name":"掌厅自动化测试","children":["d9d647cc-2a3d-4eee-aa78-2d1b10ca9221"],"befores":[{"name":"beforeSuite","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1591842271857,"stop":1591842271884}],"afters":[],"links":[],"start":1591842271819,"stop":1591842384080}

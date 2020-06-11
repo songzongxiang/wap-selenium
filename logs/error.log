@@ -94,3 +94,73 @@ Session ID: c94e37ef57d42ac3766105dc2caed35d========
 2020-06-11 10:26:23.824 [main-32] INFO  com.sh.stt.util.ScreenshotUtil.capture - 开始截图
 2020-06-11 10:26:23.840 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
 2020-06-11 10:26:24.080 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
+2020-06-11 16:22:36.050 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-11 16:22:36.058 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-11 16:22:36.069 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-11 16:22:48.191 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-11 16:22:50.058 [main-41] INFO  com.sh.stt.testcase.index.BJIndexTest.beforeClass - 进入 北京首页 页面
+2020-06-11 16:22:50.069 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.advBannerListTest测试开始========
+2020-06-11 16:22:50.135 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.advBannerListTest测试开始========
+2020-06-11 16:22:50.135 [main-50] INFO  com.sh.stt.testcase.index.BJIndexTest.advBannerListTest - 主广告区
+2020-06-11 16:23:01.128 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.index.BJIndexTest.advBannerListTest测试通过========
+2020-06-11 16:23:01.260 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.index.BJIndexTest.advBannerListTest测试通过========
+2020-06-11 16:23:01.260 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.quickListTest测试开始========
+2020-06-11 16:23:01.264 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.quickListTest测试开始========
+2020-06-11 16:23:01.265 [main-67] INFO  com.sh.stt.testcase.index.BJIndexTest.quickListTest - 快捷专区
+2020-06-11 16:23:24.173 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.index.BJIndexTest.quickListTest测试通过========
+2020-06-11 16:23:24.177 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.index.BJIndexTest.quickListTest测试通过========
+2020-06-11 16:23:24.178 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.tlAdvListTest测试开始========
+2020-06-11 16:23:24.182 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.tlAdvListTest测试开始========
+2020-06-11 16:23:24.183 [main-84] INFO  com.sh.stt.testcase.index.BJIndexTest.tlAdvListTest - 通栏广告
+2020-06-11 16:23:26.959 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.index.BJIndexTest.tlAdvListTest测试通过========
+2020-06-11 16:23:26.961 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.index.BJIndexTest.tlAdvListTest测试通过========
+2020-06-11 16:23:26.961 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.familyShareListTest测试开始========
+2020-06-11 16:23:26.965 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.familyShareListTest测试开始========
+2020-06-11 16:23:26.966 [main-101] INFO  com.sh.stt.testcase.index.BJIndexTest.familyShareListTest - 全家享
+2020-06-11 16:23:38.213 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.index.BJIndexTest.familyShareListTest测试通过========
+2020-06-11 16:23:38.217 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.index.BJIndexTest.familyShareListTest测试通过========
+2020-06-11 16:23:38.217 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.terminalRecomListTest测试开始========
+2020-06-11 16:23:38.222 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.terminalRecomListTest测试开始========
+2020-06-11 16:23:38.222 [main-118] INFO  com.sh.stt.testcase.index.BJIndexTest.terminalRecomListTest - 终端推荐
+2020-06-11 16:24:05.042 [main-55] ERROR com.sh.stt.listener.LogListener.onTestFailure - ========com.sh.stt.testcase.index.BJIndexTest.terminalRecomListTest测试失败,失败原因如下：
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-A7IIGHBBGE6', ip: '192.168.229.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60326}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 058326a88edede6abdc297e08729d849========
+2020-06-11 16:24:05.046 [main-32] INFO  com.sh.stt.util.ScreenshotUtil.capture - 开始截图
+2020-06-11 16:24:19.069 [main-55] ERROR com.sh.stt.listener.LogListener.onTestFailure - ========com.sh.stt.testcase.index.BJIndexTest.terminalRecomListTest测试失败,失败原因如下：
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=81.0.4044.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-A7IIGHBBGE6', ip: '192.168.229.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60326}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 058326a88edede6abdc297e08729d849========
+2020-06-11 16:24:19.070 [main-32] INFO  com.sh.stt.util.ScreenshotUtil.capture - 开始截图
+2020-06-11 16:24:47.160 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
+2020-06-11 16:24:47.312 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
+2020-06-11 16:35:39.249 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-11 16:35:39.259 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-11 16:35:39.393 [main-133] ERROR com.sh.stt.base.BaseDriver.startBrowser - chrome浏览器启动失败！
+2020-06-11 16:35:39.740 [main-68] INFO  com.sh.stt.listener.LogListener.onTestSkipped - ========com.sh.stt.testcase.index.GXIndexTest.advBannerListTest跳过测试========
+2020-06-11 16:35:39.773 [main-68] INFO  com.sh.stt.listener.LogListener.onTestSkipped - ========com.sh.stt.testcase.index.GXIndexTest.cardRecomLeftTest跳过测试========
+2020-06-11 16:35:39.794 [main-68] INFO  com.sh.stt.listener.LogListener.onTestSkipped - ========com.sh.stt.testcase.index.GXIndexTest.cardRecomRightListTest跳过测试========
+2020-06-11 16:35:39.800 [main-68] INFO  com.sh.stt.listener.LogListener.onTestSkipped - ========com.sh.stt.testcase.index.GXIndexTest.familyShareListTest跳过测试========
+2020-06-11 16:35:39.811 [main-68] INFO  com.sh.stt.listener.LogListener.onTestSkipped - ========com.sh.stt.testcase.index.GXIndexTest.featureListTest跳过测试========
+2020-06-11 16:35:39.820 [main-68] INFO  com.sh.stt.listener.LogListener.onTestSkipped - ========com.sh.stt.testcase.index.GXIndexTest.quickListTest跳过测试========
+2020-06-11 16:35:39.832 [main-68] INFO  com.sh.stt.listener.LogListener.onTestSkipped - ========com.sh.stt.testcase.index.GXIndexTest.serviceRecomListTest跳过测试========
+2020-06-11 16:35:39.841 [main-68] INFO  com.sh.stt.listener.LogListener.onTestSkipped - ========com.sh.stt.testcase.index.GXIndexTest.terminalRecomListTest跳过测试========
+2020-06-11 16:35:39.855 [main-68] INFO  com.sh.stt.listener.LogListener.onTestSkipped - ========com.sh.stt.testcase.index.GXIndexTest.tlAdvListTest跳过测试========
+2020-06-11 16:35:39.868 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
+2020-06-11 16:36:28.802 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-11 16:36:28.811 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-11 16:36:40.059 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-11 16:36:41.720 [main-41] INFO  com.sh.stt.testcase.index.GXIndexTest.beforeClass - 进入 广西首页 页面
+2020-06-11 16:36:41.737 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.GXIndexTest.advBannerListTest测试开始========
+2020-06-11 16:36:41.790 [main-50] INFO  com.sh.stt.testcase.index.GXIndexTest.advBannerListTest - 主广告区
+2020-06-11 16:36:52.220 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.index.GXIndexTest.advBannerListTest测试通过========
+2020-06-11 16:36:52.500 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.GXIndexTest.cardRecomLeftTest测试开始========
+2020-06-11 16:36:52.505 [main-156] INFO  com.sh.stt.testcase.index.GXIndexTest.cardRecomLeftTest - 号卡推荐--左侧
