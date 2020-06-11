@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="掌厅自动化测试">
+    <test preserve-order="true" name="wap-selenium">
+        <classes>
+
+            <!--首页-->
+            <class name="com.sh.stt.testcase.index.BJIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.AHIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.CQIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.FJIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.GDIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.GXIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.GSIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.GZIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.HEIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.HAIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.HIIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.HBIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.HNIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.HLIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.JLIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.JSIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.JXIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.LNIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.NMIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.NXIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.QHIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.SHIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.SCIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.SDIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.SXIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.SNIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.TJIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.XJIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.XZIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.YNIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.index.ZJIndexTest">
+                <methods>
+                    <include name="advBannerListTest"/>
+                    <include name="quickListTest"/>
+                    <include name="tlAdvListTest"/>
+                    <include name="familyShareListTest"/>
+                    <include name="terminalRecomListTest"/>
+                    <include name="serviceRecomListTest"/>
+                    <include name="cardRecomLeftTest"/>
+                    <include name="cardRecomRightListTest"/>
+                    <include name="featureListTest"/>
+                </methods>
+            </class>
+
+            <!--业务列表-->
+            <class name="com.sh.stt.testcase.yw.BJYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.AHYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.CQYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.FJYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.GDYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.GXYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.GSYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.GZYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.HEYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.HAYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.HIYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.HBYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.HNYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.HLYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.JLYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.JSYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.JXYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.LNYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.NMYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.NXYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.QHYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.SHYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.SCYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.SDYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.SXYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.SNYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.TJYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.XJYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.XZYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.YNYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yw.ZJYWTest">
+                <methods>
+                    <include name="ywContentListTest"/>
+                </methods>
+            </class>
+
+            <!--优惠-->
+            <class name="com.sh.stt.testcase.yh.BJYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.AHYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.CQYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.FJYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.GDYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.GXYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.GSYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.GZYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.HEYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.HAYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.HIYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.HBYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.HNYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.HLYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.JLYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.JSYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.JXYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.LNYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.NMYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.NXYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.QHYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.SHYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.SCYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.SDYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.SXYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.SNYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.TJYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.XJYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.XZYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.YNYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+            <class name="com.sh.stt.testcase.yh.ZJYHTest">
+                <methods>
+                    <include name="yhContentListTest"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>

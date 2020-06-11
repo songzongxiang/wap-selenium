@@ -1,0 +1,163 @@
+2020-06-10 14:21:21.625 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-10 14:21:21.634 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:21:35.186 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-10 14:21:36.965 [main-35] INFO  com.sh.stt.testcase.yh.BJYHTest.beforeClass - 进入 北京优惠 页面
+2020-06-10 14:21:36.975 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.yh.BJYHTest.yhContentListTest测试开始========
+2020-06-10 14:21:39.966 [main-55] ERROR com.sh.stt.listener.LogListener.onTestFailure - ========com.sh.stt.testcase.yh.BJYHTest.yhContentListTest测试失败,失败原因如下：
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='https://g.10086.cn/hao/2v19h']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-A7IIGHBBGE6', ip: '192.168.229.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50336}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b6ccbe581a0a1b2ecaadda36aa858d98
+*** Element info: {Using=xpath, value=//a[@href='https://g.10086.cn/hao/2v19h']}========
+2020-06-10 14:21:39.968 [main-32] INFO  com.sh.stt.util.ScreenshotUtil.capture - 开始截图
+2020-06-10 14:21:43.824 [main-200] INFO  com.sh.stt.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-06-10 14:21:43.825 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
+2020-06-10 14:22:22.129 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-10 14:22:22.138 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:22:33.220 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-10 14:22:33.484 [main-35] INFO  com.sh.stt.testcase.yw.AHYWTest.beforeClass - 进入 安徽业务列表 页面
+2020-06-10 14:22:33.494 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.yw.AHYWTest.ywContentListTest测试开始========
+2020-06-10 14:22:45.528 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.yw.AHYWTest.ywContentListTest测试通过========
+2020-06-10 14:22:48.401 [main-200] INFO  com.sh.stt.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-06-10 14:22:48.401 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
+2020-06-10 14:23:01.865 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-10 14:23:01.874 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:23:13.121 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-10 14:23:14.333 [main-35] INFO  com.sh.stt.testcase.yw.LNYWTest.beforeClass - 进入 辽宁业务列表 页面
+2020-06-10 14:23:14.347 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.yw.LNYWTest.ywContentListTest测试开始========
+2020-06-10 14:23:26.126 [main-55] ERROR com.sh.stt.listener.LogListener.onTestFailure - ========com.sh.stt.testcase.yw.LNYWTest.ywContentListTest测试失败,失败原因如下：
+java.lang.Throwable========
+2020-06-10 14:23:26.129 [main-32] INFO  com.sh.stt.util.ScreenshotUtil.capture - 开始截图
+2020-06-10 14:23:29.567 [main-200] INFO  com.sh.stt.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-06-10 14:23:29.567 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
+2020-06-10 14:23:45.376 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-10 14:23:45.384 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:23:56.365 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-10 14:23:57.010 [main-41] INFO  com.sh.stt.testcase.index.BJIndexTest.beforeClass - 进入 北京首页 页面
+2020-06-10 14:23:57.023 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.advBannerListTest测试开始========
+2020-06-10 14:23:57.076 [main-50] INFO  com.sh.stt.testcase.index.BJIndexTest.advBannerListTest - 主广告区
+2020-06-10 14:24:09.451 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.index.BJIndexTest.advBannerListTest测试通过========
+2020-06-10 14:24:12.297 [main-200] INFO  com.sh.stt.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-06-10 14:24:12.297 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
+2020-06-10 14:24:28.265 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-10 14:24:28.279 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:24:39.350 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-10 14:24:40.005 [main-41] INFO  com.sh.stt.testcase.index.BJIndexTest.beforeClass - 进入 北京首页 页面
+2020-06-10 14:24:40.018 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.serviceRecomListTest测试开始========
+2020-06-10 14:24:40.070 [main-137] INFO  com.sh.stt.testcase.index.BJIndexTest.serviceRecomListTest - 业务推荐
+2020-06-10 14:24:51.683 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.index.BJIndexTest.serviceRecomListTest测试通过========
+2020-06-10 14:24:54.517 [main-200] INFO  com.sh.stt.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-06-10 14:24:54.517 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
+2020-06-10 14:29:07.936 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-10 14:29:07.947 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:29:19.096 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-10 14:29:20.920 [main-35] INFO  com.sh.stt.testcase.yh.BJYHTest.beforeClass - 进入 北京优惠 页面
+2020-06-10 14:29:20.941 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.yh.BJYHTest.yhContentListTest测试开始========
+2020-06-10 14:29:23.966 [main-55] ERROR com.sh.stt.listener.LogListener.onTestFailure - ========com.sh.stt.testcase.yh.BJYHTest.yhContentListTest测试失败,失败原因如下：
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//img[@src='http://wap.10086.cn/uploadBaseDir/content/jpg/20200529/202005291644208645hg_0.jpg']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-A7IIGHBBGE6', ip: '192.168.229.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51025}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: db1878df579872713f45e5d25db599d2
+*** Element info: {Using=xpath, value=//img[@src='http://wap.10086.cn/uploadBaseDir/content/jpg/20200529/202005291644208645hg_0.jpg']}========
+2020-06-10 14:29:23.969 [main-32] INFO  com.sh.stt.util.ScreenshotUtil.capture - 开始截图
+2020-06-10 14:29:27.718 [main-200] INFO  com.sh.stt.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-06-10 14:29:27.719 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
+2020-06-10 14:30:23.727 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-10 14:30:23.736 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:30:35.041 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-10 14:30:38.447 [main-35] INFO  com.sh.stt.testcase.yh.BJYHTest.beforeClass - 进入 北京优惠 页面
+2020-06-10 14:30:38.461 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.yh.BJYHTest.yhContentListTest测试开始========
+2020-06-10 14:30:41.436 [main-55] ERROR com.sh.stt.listener.LogListener.onTestFailure - ========com.sh.stt.testcase.yh.BJYHTest.yhContentListTest测试失败,失败原因如下：
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//img[@src='http://wap.10086.cn/uploadBaseDir/content/jpg/20200529/202005291644208645hg_0.jpg']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-A7IIGHBBGE6', ip: '192.168.229.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51119}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6a6582ae2adac667470430bf509c2211
+*** Element info: {Using=xpath, value=//img[@src='http://wap.10086.cn/uploadBaseDir/content/jpg/20200529/202005291644208645hg_0.jpg']}========
+2020-06-10 14:30:41.439 [main-32] INFO  com.sh.stt.util.ScreenshotUtil.capture - 开始截图
+2020-06-10 14:30:45.139 [main-200] INFO  com.sh.stt.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-06-10 14:30:45.139 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
+2020-06-10 14:32:22.955 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-10 14:32:22.963 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:32:33.994 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-10 14:32:37.417 [main-35] INFO  com.sh.stt.testcase.yh.BJYHTest.beforeClass - 进入 北京优惠 页面
+2020-06-10 14:32:37.425 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.yh.BJYHTest.yhContentListTest测试开始========
+2020-06-10 14:32:39.898 [main-55] ERROR com.sh.stt.listener.LogListener.onTestFailure - ========com.sh.stt.testcase.yh.BJYHTest.yhContentListTest测试失败,失败原因如下：
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//img[@src='http://wap.10086.cn/uploadBaseDir/content/jpg/20200529/202005291644208645hg_0.jpg']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-A7IIGHBBGE6', ip: '192.168.229.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51244}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9f2c8d6eca2632a45768d67dd57d6f17
+*** Element info: {Using=xpath, value=//img[@src='http://wap.10086.cn/uploadBaseDir/content/jpg/20200529/202005291644208645hg_0.jpg']}========
+2020-06-10 14:32:39.901 [main-32] INFO  com.sh.stt.util.ScreenshotUtil.capture - 开始截图
+2020-06-10 14:32:43.634 [main-200] INFO  com.sh.stt.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-06-10 14:32:43.643 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
+2020-06-10 14:33:19.066 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-10 14:33:19.076 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:33:30.153 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-10 14:33:34.816 [main-35] INFO  com.sh.stt.testcase.yh.BJYHTest.beforeClass - 进入 北京优惠 页面
+2020-06-10 14:33:34.826 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.yh.BJYHTest.yhContentListTest测试开始========
+2020-06-10 14:33:37.289 [main-55] ERROR com.sh.stt.listener.LogListener.onTestFailure - ========com.sh.stt.testcase.yh.BJYHTest.yhContentListTest测试失败,失败原因如下：
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//img[@src='http://wap.10086.cn/uploadBaseDir/content/jpg/20200529/202005291644208645hg_0.jpg']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-A7IIGHBBGE6', ip: '192.168.229.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51299}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f44f2dba49b91635ec0f25f42a5d04e8
+*** Element info: {Using=xpath, value=//img[@src='http://wap.10086.cn/uploadBaseDir/content/jpg/20200529/202005291644208645hg_0.jpg']}========
+2020-06-10 14:33:37.290 [main-32] INFO  com.sh.stt.util.ScreenshotUtil.capture - 开始截图
+2020-06-10 14:33:40.983 [main-200] INFO  com.sh.stt.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-06-10 14:33:40.983 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
+2020-06-10 14:35:35.690 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-10 14:35:35.700 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:35:47.006 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-10 14:35:47.824 [main-35] INFO  com.sh.stt.testcase.yh.BJYHTest.beforeClass - 进入 北京优惠 页面
+2020-06-10 14:35:47.834 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.yh.BJYHTest.yhContentListTest测试开始========
+2020-06-10 14:36:49.483 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-10 14:36:49.495 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:37:00.973 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-10 14:37:04.440 [main-35] INFO  com.sh.stt.testcase.yh.BJYHTest.beforeClass - 进入 北京优惠 页面
+2020-06-10 14:37:04.451 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.yh.BJYHTest.yhContentListTest测试开始========
+2020-06-10 14:40:40.813 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-10 14:40:40.825 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:40:51.907 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-10 14:40:52.672 [main-35] INFO  com.sh.stt.testcase.yh.ZJYHTest.beforeClass - 进入 浙江优惠 页面
+2020-06-10 14:40:52.681 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.yh.ZJYHTest.yhContentListTest测试开始========
+2020-06-10 14:49:19.405 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-10 14:49:19.413 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:49:30.358 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-10 14:49:31.119 [main-41] INFO  com.sh.stt.testcase.index.LNIndexTest.beforeClass - 进入 辽宁首页 页面
+2020-06-10 14:49:31.132 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.LNIndexTest.terminalRecomListTest测试开始========
+2020-06-10 14:49:31.184 [main-118] INFO  com.sh.stt.testcase.index.LNIndexTest.terminalRecomListTest - 终端推荐
+2020-06-10 14:49:54.669 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.index.LNIndexTest.terminalRecomListTest测试通过========
+2020-06-10 14:49:57.598 [main-200] INFO  com.sh.stt.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-06-10 14:49:57.600 [main-79] INFO  com.sh.stt.listener.LogListener.onFinish - ====================wap-selenium结束====================
+2020-06-10 14:50:09.921 [main-26] INFO  com.sh.stt.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-06-10 14:50:09.930 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:50:09.940 [main-22] INFO  com.sh.stt.listener.LogListener.onStart - ====================wap-selenium开始====================
+2020-06-10 14:50:20.865 [main-167] INFO  com.sh.stt.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-06-10 14:50:21.690 [main-41] INFO  com.sh.stt.testcase.index.BJIndexTest.beforeClass - 进入 北京首页 页面
+2020-06-10 14:50:21.700 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.advBannerListTest测试开始========
+2020-06-10 14:50:21.750 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.advBannerListTest测试开始========
+2020-06-10 14:50:21.750 [main-50] INFO  com.sh.stt.testcase.index.BJIndexTest.advBannerListTest - 主广告区
+2020-06-10 14:50:35.017 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.index.BJIndexTest.advBannerListTest测试通过========
+2020-06-10 14:50:35.128 [main-44] INFO  com.sh.stt.listener.LogListener.onTestSuccess - ========com.sh.stt.testcase.index.BJIndexTest.advBannerListTest测试通过========
+2020-06-10 14:50:35.130 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.quickListTest测试开始========
+2020-06-10 14:50:35.139 [main-33] INFO  com.sh.stt.listener.LogListener.onTestStart - ========com.sh.stt.testcase.index.BJIndexTest.quickListTest测试开始========
+2020-06-10 14:50:35.139 [main-67] INFO  com.sh.stt.testcase.index.BJIndexTest.quickListTest - 快捷专区
