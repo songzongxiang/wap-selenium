@@ -11,10 +11,10 @@
     <parameter name="browserName" value="chrome"/>
 
     <!-- 测试套件 -->
-    <suite-files>
-        <!-- wap -->
-        <suite-file path="wap_testng.xml"/>
-    </suite-files>
+<!--    <suite-files>-->
+<!--        &lt;!&ndash; wap &ndash;&gt;-->
+<!--        <suite-file path="wap_testng.xml"/>-->
+<!--    </suite-files>-->
 
     <!-- 监听器 -->
     <listeners>
@@ -23,5 +23,18 @@
         <!-- 测试日志监听器 -->
         <listener class-name="com.sh.stt.listener.LogListener"/>
     </listeners>
+
+    <test preserve-order="true" name="wap-selenium">
+    <classes>
+
+    <!--首页-->
+    <class name="com.sh.stt.testcase.index.BJIndexTest">
+        <methods>
+            <include name="advBannerListTest"/>
+            <include name="quickListTest"/>
+        </methods>
+    </class>
+    </classes>
+    </test>
 
 </suite>
