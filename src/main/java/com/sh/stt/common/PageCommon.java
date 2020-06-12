@@ -11,6 +11,7 @@ import java.util.regex.Pattern;
  * 封装各个模块页面都可以使用的操作方法
  */
 public class PageCommon extends BasePage {
+
     /**
      * 构造器
      *

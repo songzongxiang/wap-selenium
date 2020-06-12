@@ -116,9 +116,9 @@ public class BaseDriver {
                     HashMap<String, Object> hashMap = new HashMap<>();
                     // 驱动可选项配置
                     ChromeOptions chromeOptions = new ChromeOptions();
-//                    chromeOptions.setExperimentalOption("prefs", hashMap);
-//                    chromeOptions.addArguments("--no-sandbox");
-//                    chromeOptions.addArguments("--disable-dev-shm-usage");
+                    chromeOptions.setExperimentalOption("prefs", hashMap);
+                    chromeOptions.addArguments("--no-sandbox");
+                    chromeOptions.addArguments("--disable-dev-shm-usage");
                     // 如果是 h5 需要另外设置
                     if (terminal.equals("h5")) {
                         Map<String, String> mobileEmulationMap = new HashMap<>();

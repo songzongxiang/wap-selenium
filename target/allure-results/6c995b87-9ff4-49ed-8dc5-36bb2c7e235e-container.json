@@ -1,0 +1,1 @@
+{"uuid":"6c995b87-9ff4-49ed-8dc5-36bb2c7e235e","name":"com.sh.stt.testcase.yw.BJYWTest","children":["13f3051a-9897-4bf4-a59f-bed19e7d4e79"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1591948618389,"stop":1591948619556}],"afters":[],"links":[],"start":1591948607968,"stop":1591948624506}

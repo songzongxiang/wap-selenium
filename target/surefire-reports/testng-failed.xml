@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [WebUI Test Suite]">
+  <parameter name="browserName" value="chrome"/>
+  <parameter name="propertiesPath" value="src/test/resources/config/config.properties"/>
+  <parameter name="terminal" value="pc"/>
+  <listeners>
+    <listener class-name="com.sh.stt.listener.AssertListener"/>
+    <listener class-name="com.sh.stt.listener.LogListener"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="wap-selenium(failed)">
+    <classes>
+      <class name="com.sh.stt.testcase.yw.AHYWTest">
+        <methods>
+          <include name="ywContentListTest"/>
+          <include name="afterTest"/>
+          <include name="beforeClass"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.sh.stt.testcase.yw.AHYWTest -->
+    </classes>
+  </test> <!-- wap-selenium(failed) -->
+</suite> <!-- Failed suite [WebUI Test Suite] -->

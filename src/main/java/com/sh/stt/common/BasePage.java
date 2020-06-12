@@ -1,5 +1,6 @@
 package com.sh.stt.common;
 
+import com.sh.stt.base.BaseTest;
 import com.sh.stt.util.Assertion;
 import com.sh.stt.util.PropertiesReader;
 import org.openqa.selenium.By;
