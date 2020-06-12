@@ -7,7 +7,7 @@
     <artifactId>wap-selenium</artifactId>
     <version>1.0-SNAPSHOT</version>
     <!--指定编译之后会生成war文件，不改就会默认是jar文件 -->
-    <packaging>war</packaging>
+    <!--<packaging>war</packaging>-->
 
     <!-- 属性配置 -->
     <properties>
