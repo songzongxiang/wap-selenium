@@ -112,7 +112,8 @@ public class BaseDriver {
             case "chrome":
                 try {
                     // 系统变量设置谷歌驱动
-                    System.setProperty("webdriver.chrome.driver", chromeDriverPath);
+//                    System.setProperty("webdriver.chrome.driver", chromeDriverPath);
+                    System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver.exe");
                     HashMap<String, Object> hashMap = new HashMap<>();
                     // 驱动可选项配置
                     ChromeOptions chromeOptions = new ChromeOptions();
