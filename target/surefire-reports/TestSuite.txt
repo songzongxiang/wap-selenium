@@ -1,8 +1,562 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 18.483 s <<< FAILURE! - in TestSuite
-beforeClass(com.sh.stt.testcase.yw.AHYWTest)  Time elapsed: 2.104 s  <<< FAILURE!
+Tests run: 868, Failures: 186, Errors: 0, Skipped: 682, Time elapsed: 28.824 s <<< FAILURE! - in TestSuite
+beforeClass(com.sh.stt.testcase.index.BJIndexTest)  Time elapsed: 3.802 s  <<< FAILURE!
 java.lang.NullPointerException
-	at com.sh.stt.testcase.yw.AHYWTest.beforeClass(AHYWTest.java:34)
+
+afterClass(com.sh.stt.testcase.index.BJIndexTest)  Time elapsed: 4.093 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.AHIndexTest)  Time elapsed: 4.513 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.AHIndexTest)  Time elapsed: 4.712 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.CQIndexTest)  Time elapsed: 4.959 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.CQIndexTest)  Time elapsed: 5.122 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.FJIndexTest)  Time elapsed: 5.316 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.FJIndexTest)  Time elapsed: 5.494 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.GDIndexTest)  Time elapsed: 5.691 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.GDIndexTest)  Time elapsed: 5.857 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.GXIndexTest)  Time elapsed: 6.063 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.GXIndexTest)  Time elapsed: 6.253 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.GSIndexTest)  Time elapsed: 6.513 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.GSIndexTest)  Time elapsed: 6.68 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.GZIndexTest)  Time elapsed: 6.9 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.GZIndexTest)  Time elapsed: 7.125 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.HEIndexTest)  Time elapsed: 7.364 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.HEIndexTest)  Time elapsed: 7.819 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.HAIndexTest)  Time elapsed: 8.188 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.HAIndexTest)  Time elapsed: 8.425 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.HIIndexTest)  Time elapsed: 8.6 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.HIIndexTest)  Time elapsed: 8.732 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.HBIndexTest)  Time elapsed: 8.895 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.HBIndexTest)  Time elapsed: 9.063 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.HNIndexTest)  Time elapsed: 9.251 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.HNIndexTest)  Time elapsed: 9.395 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.HLIndexTest)  Time elapsed: 9.57 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.HLIndexTest)  Time elapsed: 9.707 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.JLIndexTest)  Time elapsed: 9.867 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.JLIndexTest)  Time elapsed: 10.004 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.JSIndexTest)  Time elapsed: 10.164 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.JSIndexTest)  Time elapsed: 10.299 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.JXIndexTest)  Time elapsed: 10.497 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.JXIndexTest)  Time elapsed: 10.653 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.LNIndexTest)  Time elapsed: 10.816 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.LNIndexTest)  Time elapsed: 10.952 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.NMIndexTest)  Time elapsed: 11.116 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.NMIndexTest)  Time elapsed: 11.253 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.NXIndexTest)  Time elapsed: 11.418 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.NXIndexTest)  Time elapsed: 11.583 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.QHIndexTest)  Time elapsed: 11.763 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.QHIndexTest)  Time elapsed: 11.925 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.SHIndexTest)  Time elapsed: 12.106 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.SHIndexTest)  Time elapsed: 12.241 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.SCIndexTest)  Time elapsed: 12.405 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.SCIndexTest)  Time elapsed: 12.56 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.SDIndexTest)  Time elapsed: 12.75 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.SDIndexTest)  Time elapsed: 12.909 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.SXIndexTest)  Time elapsed: 13.101 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.SXIndexTest)  Time elapsed: 13.273 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.SNIndexTest)  Time elapsed: 13.455 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.SNIndexTest)  Time elapsed: 13.593 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.TJIndexTest)  Time elapsed: 13.762 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.TJIndexTest)  Time elapsed: 13.923 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.XJIndexTest)  Time elapsed: 14.105 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.XJIndexTest)  Time elapsed: 14.254 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.XZIndexTest)  Time elapsed: 14.441 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.XZIndexTest)  Time elapsed: 14.621 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.YNIndexTest)  Time elapsed: 14.81 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.YNIndexTest)  Time elapsed: 14.961 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.index.ZJIndexTest)  Time elapsed: 15.145 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.index.ZJIndexTest)  Time elapsed: 15.293 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.BJYWTest)  Time elapsed: 15.466 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.BJYWTest)  Time elapsed: 15.48 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.AHYWTest)  Time elapsed: 15.677 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.AHYWTest)  Time elapsed: 15.694 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.CQYWTest)  Time elapsed: 15.916 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.CQYWTest)  Time elapsed: 15.938 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.FJYWTest)  Time elapsed: 16.165 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.FJYWTest)  Time elapsed: 16.183 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.GDYWTest)  Time elapsed: 16.38 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.GDYWTest)  Time elapsed: 16.396 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.GXYWTest)  Time elapsed: 16.925 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.GXYWTest)  Time elapsed: 16.952 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.GSYWTest)  Time elapsed: 17.706 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.GSYWTest)  Time elapsed: 17.721 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.GZYWTest)  Time elapsed: 18.077 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.GZYWTest)  Time elapsed: 18.093 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.HEYWTest)  Time elapsed: 18.305 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.HEYWTest)  Time elapsed: 18.324 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.HAYWTest)  Time elapsed: 18.52 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.HAYWTest)  Time elapsed: 18.536 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.HIYWTest)  Time elapsed: 18.737 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.HIYWTest)  Time elapsed: 18.753 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.HBYWTest)  Time elapsed: 19.029 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.HBYWTest)  Time elapsed: 19.053 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.HNYWTest)  Time elapsed: 19.296 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.HNYWTest)  Time elapsed: 19.312 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.HLYWTest)  Time elapsed: 19.486 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.HLYWTest)  Time elapsed: 19.499 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.JLYWTest)  Time elapsed: 19.678 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.JLYWTest)  Time elapsed: 19.694 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.JSYWTest)  Time elapsed: 19.905 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.JSYWTest)  Time elapsed: 19.923 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.JXYWTest)  Time elapsed: 20.131 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.JXYWTest)  Time elapsed: 20.148 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.LNYWTest)  Time elapsed: 20.354 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.LNYWTest)  Time elapsed: 20.376 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.NMYWTest)  Time elapsed: 20.587 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.NMYWTest)  Time elapsed: 20.606 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.NXYWTest)  Time elapsed: 20.775 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.NXYWTest)  Time elapsed: 20.793 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.QHYWTest)  Time elapsed: 20.959 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.QHYWTest)  Time elapsed: 20.976 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.SHYWTest)  Time elapsed: 21.151 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.SHYWTest)  Time elapsed: 21.168 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.SCYWTest)  Time elapsed: 21.34 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.SCYWTest)  Time elapsed: 21.358 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.SDYWTest)  Time elapsed: 21.529 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.SDYWTest)  Time elapsed: 21.548 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.SXYWTest)  Time elapsed: 21.735 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.SXYWTest)  Time elapsed: 21.757 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.SNYWTest)  Time elapsed: 21.936 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.SNYWTest)  Time elapsed: 21.955 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.TJYWTest)  Time elapsed: 22.123 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.TJYWTest)  Time elapsed: 22.14 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.XJYWTest)  Time elapsed: 22.3 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.XJYWTest)  Time elapsed: 22.319 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.XZYWTest)  Time elapsed: 22.481 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.XZYWTest)  Time elapsed: 22.496 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.YNYWTest)  Time elapsed: 22.649 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.YNYWTest)  Time elapsed: 22.666 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yw.ZJYWTest)  Time elapsed: 22.849 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yw.ZJYWTest)  Time elapsed: 22.865 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.BJYHTest)  Time elapsed: 23.048 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.BJYHTest)  Time elapsed: 23.065 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.AHYHTest)  Time elapsed: 23.25 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.AHYHTest)  Time elapsed: 23.271 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.CQYHTest)  Time elapsed: 23.444 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.CQYHTest)  Time elapsed: 23.462 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.FJYHTest)  Time elapsed: 23.616 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.FJYHTest)  Time elapsed: 23.628 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.GDYHTest)  Time elapsed: 23.783 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.GDYHTest)  Time elapsed: 23.803 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.GXYHTest)  Time elapsed: 23.965 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.GXYHTest)  Time elapsed: 23.984 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.GSYHTest)  Time elapsed: 24.144 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.GSYHTest)  Time elapsed: 24.159 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.GZYHTest)  Time elapsed: 24.328 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.GZYHTest)  Time elapsed: 24.352 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.HEYHTest)  Time elapsed: 24.55 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.HEYHTest)  Time elapsed: 24.571 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.HAYHTest)  Time elapsed: 24.758 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.HAYHTest)  Time elapsed: 24.775 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.HIYHTest)  Time elapsed: 24.949 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.HIYHTest)  Time elapsed: 24.966 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.HBYHTest)  Time elapsed: 25.139 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.HBYHTest)  Time elapsed: 25.158 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.HNYHTest)  Time elapsed: 25.328 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.HNYHTest)  Time elapsed: 25.345 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.HLYHTest)  Time elapsed: 25.51 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.HLYHTest)  Time elapsed: 25.528 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.JLYHTest)  Time elapsed: 25.696 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.JLYHTest)  Time elapsed: 25.713 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.JSYHTest)  Time elapsed: 25.921 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.JSYHTest)  Time elapsed: 25.942 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.JXYHTest)  Time elapsed: 26.122 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.JXYHTest)  Time elapsed: 26.134 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.LNYHTest)  Time elapsed: 26.289 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.LNYHTest)  Time elapsed: 26.301 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.NMYHTest)  Time elapsed: 26.465 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.NMYHTest)  Time elapsed: 26.482 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.NXYHTest)  Time elapsed: 26.649 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.NXYHTest)  Time elapsed: 26.664 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.QHYHTest)  Time elapsed: 26.846 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.QHYHTest)  Time elapsed: 26.864 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.SHYHTest)  Time elapsed: 27.028 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.SHYHTest)  Time elapsed: 27.04 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.SCYHTest)  Time elapsed: 27.248 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.SCYHTest)  Time elapsed: 27.268 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.SDYHTest)  Time elapsed: 27.469 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.SDYHTest)  Time elapsed: 27.489 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.SXYHTest)  Time elapsed: 27.678 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.SXYHTest)  Time elapsed: 27.696 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.SNYHTest)  Time elapsed: 27.88 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.SNYHTest)  Time elapsed: 27.895 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.TJYHTest)  Time elapsed: 28.046 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.TJYHTest)  Time elapsed: 28.059 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.XJYHTest)  Time elapsed: 28.213 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.XJYHTest)  Time elapsed: 28.243 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.XZYHTest)  Time elapsed: 28.398 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.XZYHTest)  Time elapsed: 28.411 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.YNYHTest)  Time elapsed: 28.588 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.YNYHTest)  Time elapsed: 28.606 s  <<< FAILURE!
+java.lang.NullPointerException
+
+beforeClass(com.sh.stt.testcase.yh.ZJYHTest)  Time elapsed: 28.79 s  <<< FAILURE!
+java.lang.NullPointerException
+
+afterClass(com.sh.stt.testcase.yh.ZJYHTest)  Time elapsed: 28.806 s  <<< FAILURE!
+java.lang.NullPointerException
 

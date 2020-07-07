@@ -83,10 +83,12 @@ public class BaseDriver {
      */
     public BaseDriver() {
         /* 获取类加载的根路径 驱动的 test-classes 路径 */
-        String driverParentPath = this.getClass().getResource("/").getPath() + "driver" + File.separator;
+//        String driverParentPath = this.getClass().getResource("/").getPath() + "driver" + File.separator;
         /* 多种驱动文件路径配置参数 */
-        chromeDriverPath = driverParentPath + PropertiesReader.getKey("driver.chromeDriver");
-        firefoxDriverPath = driverParentPath + PropertiesReader.getKey("driver.firefoxDriver");
+//        chromeDriverPath = driverParentPath + PropertiesReader.getKey("driver.chromeDriver");
+//        firefoxDriverPath = driverParentPath + PropertiesReader.getKey("driver.firefoxDriver");
+        chromeDriverPath = PropertiesReader.getKey("driver.chromeDriver");
+        firefoxDriverPath = PropertiesReader.getKey("driver.firefoxDriver");
         implicitlyWait = Long.valueOf(PropertiesReader.getKey("driver.timeouts.implicitlyWait"));
         pageLoadTimeout = Long.valueOf(PropertiesReader.getKey("driver.timeouts.pageLoadTimeout"));
         setScriptTimeout = Long.valueOf(PropertiesReader.getKey("driver.timeouts.setScriptTimeout"));
@@ -112,8 +114,8 @@ public class BaseDriver {
             case "chrome":
                 try {
                     // 系统变量设置谷歌驱动
-//                    System.setProperty("webdriver.chrome.driver", chromeDriverPath);
-                    System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver.exe");
+                    System.setProperty("webdriver.chrome.driver", chromeDriverPath);
+//                    System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver.exe");
                     HashMap<String, Object> hashMap = new HashMap<>();
                     // 驱动可选项配置
                     ChromeOptions chromeOptions = new ChromeOptions();

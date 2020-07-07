@@ -1,1 +1,0 @@
-{"uuid":"f77b400d-478f-412c-a52b-fefc850a7fa1","name":"WebUI Test Suite","children":["73d520ff-4ab4-4d0f-8468-a4ea27b2d256"],"befores":[{"name":"beforeSuite","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1591947714182,"stop":1591947714202}],"afters":[],"links":[],"start":1591947714146,"stop":1591947729806}
